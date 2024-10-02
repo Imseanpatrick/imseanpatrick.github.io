@@ -1,4 +1,39 @@
- </head>
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Erlemar.github.io | Data science portfolio</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Erlemar.github.io" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Data science portfolio" />
+<meta property="og:description" content="Data science portfolio" />
+<link rel="canonical" href="https://erlemar.github.io/" />
+<meta property="og:url" content="https://erlemar.github.io/" />
+<meta property="og:site_name" content="Erlemar.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Erlemar.github.io" />
+<script type="application/ld+json">
+{"headline":"Erlemar.github.io","description":"Data science portfolio","url":"https://erlemar.github.io/","@type":"WebSite","name":"Erlemar.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=a165ad03c07885bf54caf410d434ed20d5f4834d">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
