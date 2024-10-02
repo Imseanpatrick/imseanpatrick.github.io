@@ -2,7 +2,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="https://erlemar.github.io/">Erlemar.github.io</a></h1>
+      <h1><a href="https://Imseanpatrick.github.io/">Imseanpatrick.github.io</a></h1>
       
 
       <p>Now I have a personal <a href="https://andlukyane.com/">website</a>!</p>
